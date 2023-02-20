@@ -47,7 +47,7 @@ public class DuplicateNumber {
     //     return -1;
     // }
 
-    // Approach 3 : Set
+    // Approach 3 : Negative Marking
     private static int findDuplicate(int[] nums) {
         int duplicateNum = -1;
 
